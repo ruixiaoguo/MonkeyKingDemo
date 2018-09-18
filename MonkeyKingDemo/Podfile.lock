@@ -1,0 +1,16 @@
+PODS:
+  - MonkeyKing (1.1.0)
+
+DEPENDENCIES:
+  - MonkeyKing
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MonkeyKing
+
+SPEC CHECKSUMS:
+  MonkeyKing: dc16753cab7ece2d83e61976cd09fc3a7f783f1f
+
+PODFILE CHECKSUM: 6b4abc11c36cc93eae3cd03ae39fa25a939a4d0d
+
+COCOAPODS: 1.5.3
